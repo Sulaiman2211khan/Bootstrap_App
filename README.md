@@ -20,7 +20,7 @@ responsive.js: JavaScript file handling responsiveness and functionality.
 logo.PNG: Logo image used in the website's header.
 Product images referenced in the HTML (e.g., dell-5515-15-6-inches-amd-ryzen-7-gaming-laptop-8gb-ram-512gb-ssd-pakistan-priceoye-1uhtu.jpg, phone2.jpg, etc.).
 Usage
-Clone the repository: git clone https://github.com/Sulaiman2211khan/EnvisionTech.git
+Clone the repository: git clone https://github.com/Sulaiman2211khan/Bootstrap_App.git
 Open index.html in your web browser to view the website.
 Explore the different product categories, use the search feature, and navigate through the pages.
 Contributing
