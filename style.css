@@ -1,0 +1,45 @@
+*{
+    border:0;
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+}
+  /* .navbar-brand:hover {
+    opacity: 1;
+    pointer-events: top;
+    color: black;
+    background-color: gainsboro;
+  }  */
+
+  .nav-link:hover{
+    opacity: 1;
+    pointer-events: top; 
+    background-color: rgb(12,12,12);
+   }
+  #dropdowns{
+    color: white;
+   }
+  #dropdowns:hover{
+    background-color: rgb(12,23,23);
+   }
+  #arrow{
+    justify-content: right;
+    font-size: 2rem;
+    display: flex;
+    cursor: pointer;
+    margin-left: 100%;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+    background-color: black;
+   }
+  #arrow:hover {
+    color: skyblue;
+    opacity: 1;
+  }
+  .container{
+    font-size: large;
+  }
+  .fa:hover{
+    color: skyblue;
+    opacity: 1;
+  }
